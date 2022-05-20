@@ -8,7 +8,7 @@ The randomizer first generates a list of available units that the user can use i
 
 Here is a link of a demo of this program: (4-5 minute demo)
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1xonzLHg5cE)
 
 # Development Environment
 
